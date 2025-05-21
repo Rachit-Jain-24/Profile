@@ -49,13 +49,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Jain-24&theme=tokyonight" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachit-Jain-24&show_icons=true&theme=tokyonight&count_private=true" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Jain-24&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit-Jain-24&theme=tokyonight"/>
 </p>
 ---
 ### 🌐 Connect With Me
