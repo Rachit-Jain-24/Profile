@@ -48,16 +48,20 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit-Jain-24&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Jain-24&layout=compact&theme=radical" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit-Jain-24&theme=radical" width="65%"/>
 </p>
+
+
 ---
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Rachit%20Jain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rachit-jain-24)](https://linkedin.com/in/rachit-jain-24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rachit-jain-24)](https://linkedin.com/in/rachit-jain-24)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachit.jain.official24@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rachit-Jain-24)
 
 ---
 
-<p align="center"><b>“⚡ "Code it. Build it. Speak it. Change it." ⚡</b></p>
+<p align="center"><b>“⚡ "Think it. Code it. Test it. Ship it." ⚡</b></p>
