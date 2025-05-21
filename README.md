@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Jain</h1>
-<h3 align="center">AI-ML Enthusiast | Data Science Explorer | AR/VR Integrator | App Developer</h3>
+<h3 align="center">AI-ML Enthusiast | Data Science Explorer | App Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;AR%2FVR+with+AI+integration;Solving+real+world+problems+with+code;Always+curious+and+learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center"><b>“⚡ "Think it. Code it. Test it. Ship it." ⚡</b></p>
+<p align="center"><b>⚡ "Think it. Code it. Test it. Ship it." ⚡</b></p>
