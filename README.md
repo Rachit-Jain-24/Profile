@@ -22,34 +22,32 @@
 #### 🏫 Hostel Survey App (Web + Android)
 - 📱 Android app for evaluating food, hygiene, and infrastructure in govt. hostels
 - 🧑‍💼 Admin dashboard (web) with real-time insights and user/institution management
-- 📊 Visual dashboards, report downloads, and multi-lingual toggle (Telugu/English)
 - 🔄 Full-stack system under development & testing
 
 #### 🕶️ GenAI-VR Public Speaking Trainer (Prototype)
 - 🎤 Converts speech to text in real-time using `Vosk`
 - 🤖 Uses Transformers to generate questions from speeches
-- 🧠 Powered by **open-source LLMs and neural networks**
 - 💻 Unity + XR Toolkit for immersive VR experience (Meta Quest)
-- 🔌 Communicates via FastAPI backend and WebSocket
-
 ---
 
-### 🛠️ Tech Stack
+### 📊 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Vosk](https://img.shields.io/badge/Vosk-22223B?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Jain-24&theme=tokyonight" alt="streak"/>
 </p>
@@ -59,9 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Jain-24&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
-
 ---
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-Rachit%20Jain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rachit-jain-24)](https://linkedin.com/in/rachit-jain-24)
@@ -70,4 +66,4 @@
 
 ---
 
-<p align="center"><b>“Think it. Code it. Test it. Ship it.” 🚢</b></p>
+<p align="center"><b>“⚡ "Code it. Build it. Speak it. Change it." ⚡</b></p>
